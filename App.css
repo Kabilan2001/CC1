@@ -1,0 +1,9 @@
+*{
+  text-align:center;
+}
+#id{
+  background-color: rgb(185, 48, 48);
+}
+.bar{
+  font-size: larger;
+}
